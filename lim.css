@@ -1,0 +1,68 @@
+html{
+  height: 100%;
+  background-image: url("./Img&Loghi/background.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+}
+.quadnero{
+  background-color: rgba(0,0,0, 0.7);
+  border-radius: 5%;
+  width: 65%;
+  margin: auto;
+  padding: 40px;
+}
+.logo{
+  width: 250px;
+}
+h1{
+  color: #00FF00;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+header{
+  text-align: center;
+}
+nav{
+  background-color: #00FF00;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+main{
+  color: white;
+  margin-left: 10%;
+}
+button{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h2{
+  display: inline-block;
+  margin-top: 40px;
+  margin-bottom: 5px;
+}
+p{
+  margin-top: 3px;
+  margin-bottom: 3px;
+  font-size: 20px;
+}
+.orange{
+  background-color: orange;
+  border-radius: 5px;
+  height: 30px;
+  width: 30%;
+}
+.green{
+  background-color: #32CD32;
+  border-radius: 5px;
+  height: 30px;
+  width: 50%;
+}
+.red{
+  background-color: #A52A2A;
+  border-radius: 5px;
+  height: 30px;
+  width: 15%;
+}
